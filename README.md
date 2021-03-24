@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Computer Engineering - Istanbul
+Mobile Developer/Computer Engineering Student - [![Email](https://img.shields.io/badge/Email-97burakfidan97@gmail.com-blue?labelColor=black)](mailto:97burakfidan97@gmail.com) https://img.shields.io/badge/-Istanbul-blue?logo=google-maps&logoColor=white&labelColor=black
 
-[![Email](https://img.shields.io/badge/Email-97burakfidan97@gmail.com-blue?labelColor=black)](mailto:97burakfidan97@gmail.com)
 
 [![Google](https://img.shields.io/badge/Android-MrNtlu-grightgreen?logo=Android&logoColor=brightgreen&labelColor=black)](https://play.google.com/store/apps/dev?id=8269784969410642250) [![LinkedIn](https://img.shields.io/badge/Android-MrNtlu-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/burak-fidan/)
 
