@@ -9,7 +9,7 @@
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrntlu&count_private=true&show_icons=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF&theme=vue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrntlu&count_private=true&show_icons=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF&theme=vue&hide=contribs,issues)
 
 <br/>
 
