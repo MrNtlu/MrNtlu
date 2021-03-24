@@ -1,10 +1,3 @@
-<p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/25686023?s=460&u=1e831e67ae8c69d037b3c42bcd024af5265f8073&v=4" align="center" alt="MrNtlu" />
- <h2 align="center">MrNtlu</h2>
- <p align="center">Mobile Developer/Computer Engineering Student</p>
-</p>
-<br/>
-
 [![Email](https://img.shields.io/badge/97burakfidan97-EA4335?labelColor=white&logo=gmail)](mailto:97burakfidan97@gmail.com) ![About](https://img.shields.io/badge/-Istanbul-757575?logo=google-maps&logoColor=red&labelColor=white) [![Google](https://img.shields.io/badge/MrNtlu-grightgreen?logo=Android&logoColor=brightgreen&labelColor=white)](https://play.google.com/store/apps/dev?id=8269784969410642250) [![LinkedIn](https://img.shields.io/badge/MrNtlu-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/burak-fidan/)
 
 <br/>
