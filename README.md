@@ -13,3 +13,5 @@
 <br/>
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu)](https://github.com/MrNtlu)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=MrNtlu) 
