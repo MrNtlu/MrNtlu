@@ -4,12 +4,8 @@
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrntlu&count_private=true&show_icons=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF&theme=vue&hide=contribs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNtlu&show_icons=true&layout=compact&theme=vue&hide_border=true&count_private=true&hide=html,css,javascript&exclude_repo=Project-NinjaUnity,MadPlanetsUnity2D&langs_count=6)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNtlu&layout=compact&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
-
-<br/>
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu)](https://github.com/MrNtlu)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu&theme=vue&langs_count=6)](https://github.com/MrNtlu)
