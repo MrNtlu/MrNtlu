@@ -9,7 +9,3 @@
 <br/>
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu&theme=vue&langs_count=6)](https://github.com/MrNtlu)
-
-
-
-![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mrntlu)
