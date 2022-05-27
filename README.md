@@ -7,8 +7,4 @@
 
 <br/>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu&theme=vue&langs_count=6&layout=compact&hide=xml)](https://github.com/MrNtlu)
-
-<br/>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrNtlu&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
