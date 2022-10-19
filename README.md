@@ -1,7 +1,7 @@
 ## Hi there 👋
 
+[![Website](https://img.shields.io/badge/burakfidan.com-5651e5?logo=googlechrome&logoColor=5651e5&labelColor=white)](http://burakfidan.com/)
 [![Email](https://img.shields.io/badge/97burakfidan97-EA4335?labelColor=white&logo=gmail)](mailto:97burakfidan97@gmail.com) 
-![About](https://img.shields.io/badge/-Istanbul-757575?logo=google-maps&logoColor=red&labelColor=white) 
 [![Google](https://img.shields.io/badge/MrNtlu-grightgreen?logo=Android&logoColor=brightgreen&labelColor=white)](https://play.google.com/store/apps/dev?id=8269784969410642250) 
 [![Apple](https://img.shields.io/badge/Burak%20Fidan-black?logo=Apple&logoColor=black&labelColor=white)](https://apps.apple.com/tr/developer/burak-fidan/id1629419799) 
 [![LinkedIn](https://img.shields.io/badge/Burak%20Fidan-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/burak-fidan/)
