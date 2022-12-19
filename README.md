@@ -17,3 +17,8 @@
 <br/>
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu&theme=vue&langs_count=6&layout=compact&hide=xml)](https://github.com/MrNtlu)
+
+<br/>
+<br/>
+
+[![AndroidWeekly](https://androidweekly.net/issues/issue-548/badge)](https://androidweekly.net/issues/issue-548)
