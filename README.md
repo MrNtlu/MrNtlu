@@ -1,4 +1,4 @@
-### <div align="center">Hi there 👋 My name is Burak, a software developer 👨‍💻</div>  
+### <div align="center">Hi 👋 I am Burak, a software developer 👨‍💻</div>  
   
 
 - 🌍  I'm based in Istanbul  
