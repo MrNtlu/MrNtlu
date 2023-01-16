@@ -54,11 +54,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Process Death &amp; Orientation Change in RecyclerView](https://proandroiddev.com/process-death-orientation-change-in-recyclerview-8f9c902e491b?source=rss-a99dac39edcb------2)
 - [Everything You Need to Know About RecyclerView](https://proandroiddev.com/everything-you-need-to-know-about-recyclerview-577bf9248298?source=rss-a99dac39edcb------2)
 - [JWT Authentication and Refresh Token in Android with Retrofit Interceptor &amp; Authenticator](https://proandroiddev.com/jwt-authentication-and-refresh-token-in-android-with-retrofit-interceptor-authenticator-da021f7f7534?source=rss-a99dac39edcb------2)
 - [Caching and Pagination with Paging 3 in Android &amp; Jetpack Compose](https://proandroiddev.com/caching-and-pagination-with-paging-3-in-android-jetpack-compose-b636aaf116ce?source=rss-a99dac39edcb------2)
 - [Pagination in Jetpack Compose with and without Paging 3](https://proandroiddev.com/pagination-in-jetpack-compose-with-and-without-paging-3-e45473a352f4?source=rss-a99dac39edcb------2)
-- [AdMob Banner &amp; Interstitial in Jetpack Compose](https://itnext.io/admob-banner-interstitial-in-jetpack-compose-47a1b700198c?source=rss-a99dac39edcb------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
