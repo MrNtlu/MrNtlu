@@ -54,8 +54,8 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [WebSockets in Android with OkHttp and ViewModel](https://proandroiddev.com/websockets-in-android-with-okhttp-and-viewmodel-776a9eed67b5?source=rss-a99dac39edcb------2)
-- [FCM Push Notification &amp; Local Notification](https://proandroiddev.com/fcm-push-notification-local-notification-13117f447255?source=rss-a99dac39edcb------2)
+- [WebSockets in Android with OkHttp and ViewModel](https://itnext.io/websockets-in-android-with-okhttp-and-viewmodel-776a9eed67b5?source=rss-a99dac39edcb------2)
+- [FCM Push Notification &amp; Local Notification](https://itnext.io/fcm-push-notification-local-notification-13117f447255?source=rss-a99dac39edcb------2)
 - [Process Death &amp; Orientation Change in RecyclerView](https://proandroiddev.com/process-death-orientation-change-in-recyclerview-8f9c902e491b?source=rss-a99dac39edcb------2)
 - [Everything You Need to Know About RecyclerView](https://proandroiddev.com/everything-you-need-to-know-about-recyclerview-577bf9248298?source=rss-a99dac39edcb------2)
 - [JWT Authentication and Refresh Token in Android with Retrofit Interceptor &amp; Authenticator](https://proandroiddev.com/jwt-authentication-and-refresh-token-in-android-with-retrofit-interceptor-authenticator-da021f7f7534?source=rss-a99dac39edcb------2)
