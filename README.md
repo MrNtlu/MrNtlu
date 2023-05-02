@@ -94,6 +94,11 @@
 
 
 ## Wakatime Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu&theme=vue&langs_count=6&layout=compact&hide=xml" align="center" /></div>  
+
+<div align="center">
+  <a href="https://wakatime.com/@e6cd4abe-43a8-4bce-8d4b-107232c9f7b5"><img src="https://wakatime.com/badge/user/e6cd4abe-43a8-4bce-8d4b-107232c9f7b5.svg" alt="Total time coded since Mar 24 2021" /></a>
+
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu&theme=vue&langs_count=6&layout=compact&hide=xml" align="center" /></div>  
 
 <br/>
