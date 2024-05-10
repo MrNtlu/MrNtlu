@@ -1,10 +1,10 @@
 ### <div align="center">Hi 👋 I am Burak, a software developer 👨‍💻</div>  
   
 
-- 🌍  I'm based in Osaka  
+- 🌍  I'm based in Osaka
   
 
-- 🖥️  See my portfolio at [burakfidan.com](https://www.burakfidan.com/)  
+- 🖥️  See my portfolio at [burakfidan.com](https://www.burakfidan.com/) 
 
 
 <br/>  
