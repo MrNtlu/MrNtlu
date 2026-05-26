@@ -88,7 +88,7 @@
 
 
 ## Most Used Languages
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNtlu&show_icons=true&layout=compact&theme=vue&hide_border=true&count_private=true&hide=html,css,javascript&exclude_repo=Project-NinjaUnity,MadPlanetsUnity2D&langs_count=6" align="center" /></div>  
+<div align="center"><img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=MrNtlu&show_icons=true&layout=compact&theme=vue&hide_border=true&count_private=true&hide=html,css,javascript&exclude_repo=Project-NinjaUnity,MadPlanetsUnity2D&langs_count=6" align="center" /></div>  
 
 <br/>
 
@@ -100,6 +100,6 @@
 
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrNtlu&theme=vue&langs_count=6&layout=compact&hide=xml" align="center" /></div>  
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/wakatime?username=MrNtlu&theme=vue&langs_count=6&layout=compact&hide=xml" align="center" /></div>  
 
 <br/>
